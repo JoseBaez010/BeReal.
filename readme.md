@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting the backend to work properly at times but after sometime was able to get it to work right.
 
 ## License
 
