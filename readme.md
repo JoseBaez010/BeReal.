@@ -2,7 +2,7 @@
 
 Submitted by: **Jose Daniel Baez**
 
-**BeReal.** is an app that introduces the idea of a social media app that you are allowed to take pictures and post them for everyone to see it. This app also has a feature where in order to see other peoples post you need to post something in the first place.
+**BeReal.** is an app that basically is a social media type app where you are able to upload pictures and everyone is able to see the pictures when it was uploaded and are able to comment about it. Added a feature where in order to see other peoples post you need to post something in the first place.
 
 Time spent: **30** hours spent in total
 
