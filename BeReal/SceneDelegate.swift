@@ -32,7 +32,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
             self?.logOut()
         }
 
-        // Check if a current user exists
         if User.current != nil {
             login()
         }
@@ -45,6 +44,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     }
 
     private func logOut() {
+        // TODO: Pt 1 - Log out Parse user.
         // This will also remove the session from the Keychain, log out of linked services and all future calls to current will return nil.
         User.logout { [weak self] result in
 
@@ -97,4 +97,3 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // to restore the scene back to its current state.
     }
 }
-
