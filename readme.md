@@ -1,8 +1,8 @@
-# Project 5 - *BeReal.*
+# Project 6 - *BeReal.*
 
 Submitted by: **Jose Daniel Baez**
 
-**BeReal.** is an app that basically is a social media type app where you are able to upload pictures and everyone is able to see the pictures when it was uploaded and are able to comment about it.
+**BeReal.** is an app that introduces the idea of a social media app that you are allowed to take pictures and post them for everyone to see it. This app also has a feature where in order to see other peoples post you need to post something in the first place.
 
 Time spent: **30** hours spent in total
 
@@ -10,19 +10,15 @@ Time spent: **30** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] User can register a new account
-- [X] User can log in with newly created account
-- [X] App has a feed of posts when user logs in
-- [X] User can upload a new post which takes in a picture from photo library and a caption	
+- [X] User can launch camera to take photo instead of photo library
+- [X] User session persists when application is closed and relaunched
+- [X] Users are able to log out and return to sign in page
+- [X] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
-- [X] Users can pull to refresh their feed and see a loading indicator
-- [X] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed
-- [X] User is able to logout
-- [X] User stays logged in when app is closed and open again
-
+- [ ] User receive notifcation when it is time to post
+- [ ] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
@@ -30,15 +26,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/36ec419ee0b64dbf92cc5de54efb42ab">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/36ec419ee0b64dbf92cc5de54efb42ab-with-play.gif">
-    </a>
-</div>
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+
+[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Getting the backend to work properly at times but after sometime was able to get it to work right.
+Describe any challenges encountered while building the app.
 
 ## License
 
