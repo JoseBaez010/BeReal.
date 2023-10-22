@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<a href="https://www.loom.com/share/75718f8abeae4ed894f36b8cccebbf85">
+    <img style="max-width:300px;" src="null">
+</a>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was having problems with the camera but got everything to work properly.
 
 ## License
 
